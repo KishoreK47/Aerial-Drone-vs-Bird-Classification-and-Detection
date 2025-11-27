@@ -1,0 +1,17 @@
+# Ignore model files
+*.h5
+*.pt
+models/
+
+# Ignore dataset
+dataset/
+object_detection_Dataset/
+classification_dataset/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+.env
+
+# Ignore zip files
+*.zip

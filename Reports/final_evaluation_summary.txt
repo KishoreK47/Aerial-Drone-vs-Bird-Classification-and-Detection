@@ -1,0 +1,20 @@
+
+FINAL MODEL PERFORMANCE (EfficientNetB0)
+
+Test Accuracy: 97.2%
+AUC Score: 0.998
+
+Confusion Matrix:
+[[119   2]
+ [  4  90]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        bird       0.97      0.98      0.98       121
+       drone       0.98      0.96      0.97        94
+
+    accuracy                           0.97       215
+   macro avg       0.97      0.97      0.97       215
+weighted avg       0.97      0.97      0.97       215
+
