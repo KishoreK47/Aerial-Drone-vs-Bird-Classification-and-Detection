@@ -1,4 +1,4 @@
-tensorflow
+opencv-python-headless
 ultralytics
 numpy
 pillow
@@ -6,3 +6,5 @@ matplotlib
 seaborn
 streamlit
 scikit-learn
+tensorflow-cpu==2.9.1
+
